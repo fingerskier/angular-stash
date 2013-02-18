@@ -1,3 +1,4 @@
+// pulled from socketstream-angular seed project
 .factory('pubsub', function ($log, $rootScope) {
     console.log('pubsub service created');
 

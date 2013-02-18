@@ -1,3 +1,4 @@
+// pulled from socketstream-angular seed project
 .factory('rpc', function ($log, $q, $rootScope) {
     console.log('rpc service created');
 
