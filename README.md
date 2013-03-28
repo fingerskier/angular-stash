@@ -6,7 +6,15 @@ You, if you are an AngularJS developer or wish to become such.
 
 What
 ----
-Code, hopefully lots of it someday.  Services, Directives, and Filters as well as cool snippets to spice up your controllers and other modules.  Pull requests welcome!!!  You can also just inform me of you favorite Gists or raise and issue and I'll splice things in.
+Code, hopefully lots of it someday.  Services, Directives, and Filters as well as cool snippets to spice up your controllers and other modules.  Pull requests welcome!!!  You can also just inform me of you favorite Gists or raise an issue and I'll splice things in.
+
+Check out these similar libraries:
+
+- mgcrea.github.com/angular-strap
+-
+- angular-ui.github.com/bootstrap/
+- angular-ui.github.com/
+
 
 When
 ----
